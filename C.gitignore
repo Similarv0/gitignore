@@ -34,7 +34,8 @@
 *.app
 *.i*86
 *.x86_64
-*.hex
+# i don't want to ignore hex files
+# *.hex
 
 # Debug files
 *.dSYM/
